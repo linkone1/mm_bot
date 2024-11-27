@@ -1,0 +1,11 @@
+[
+    {
+      "secret_key": [60, 50, ...] // Array of numbers
+    },
+    {
+      "secret_key": [24, 16, ...]
+    }
+    // Add more wallets as needed
+  ]
+
+// This is how it should look like i will create a .txt file with the script that worked last.
